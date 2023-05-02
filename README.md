@@ -65,7 +65,7 @@ This endpoint is handled by the `FactController` in the `controllers` directory.
 
 ## Contributors
 
-- Vladyslav Ishchenko <https://www.linkedin.com/in/vladyslav-ishchenko-104760236/>
+- [Vladyslav Ishchenko](<https://www.linkedin.com/in/vladyslav-ishchenko-104760236/>)
 
 ## License
 
