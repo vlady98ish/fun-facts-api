@@ -1,6 +1,6 @@
-# Books RESTful API
+# Fun Facts API
 
-A RESTful API which allows to perform fetch fan facts.
+ API which allows to perform fetch fan facts.
 
 ## Getting Started
 
